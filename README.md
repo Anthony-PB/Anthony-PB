@@ -1,0 +1,26 @@
+# Hi there, I'm Anthony! 👋
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Learning...)
+
+## 🎓 About Me
+CS student at Cornell University, passionate about building impactful software. If I can't do it through a company, I'll find another way.
+
+## 🔭 Currently Working On 
+- **BookTracker**: Easy-to-use platform for tracking your reading progress
+- **Implementing Things From Class**
+
+## 🌱 Currently Learning
+- **Rust**: Diving into systems programming and memory safety
+
+## 📊 GitHub Stats
+![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anthony-PB&show_icons=true&theme=radical)
+
+## 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-PB&layout=compact&theme=radical)
+
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-paredes-bautista-pb/)
