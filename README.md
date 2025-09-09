@@ -6,7 +6,8 @@
 CS student at Cornell University, passionate about building impactful software. If I can't do it through a company, I'll find another way.
 
 ## 🔭 Currently Working On 
-- **BookTracker**: Easy-to-use platform for tracking your reading progress
+- **BookTracker**: Easy-to-use platform for tracking your reading progress.
+- **LingApp**: An app on iOS meant for learning basic linguistics.
 - **Implementing Things From Class**
 
 ## 🌱 Currently Learning
