@@ -21,6 +21,7 @@ CS student at Cornell University, passionate about building impactful software. 
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
+Why is my laptop so loud?
 <!--END_SECTION:activity-->
 
 ## 📫 Let's Connect
