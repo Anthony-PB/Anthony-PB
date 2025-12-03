@@ -14,15 +14,13 @@ CS student at Cornell University, passionate about building impactful software. 
 - **Rust**: Diving into systems programming and memory safety
 
 ## 📊 GitHub Stats
-![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anthony-PB&show_icons=true&theme=radical)
+![Anthony's GitHub Stats](https://github-readme-stats-five-flame-19.vercel.app/api?username=Anthony-PB&show_icons=true&theme=radical)
 
 ## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-PB&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-five-flame-19.vercel.app/api/top-langs/?username=Anthony-PB&layout=compact&theme=radical)
 
-## ⚡ Recent Activity
-<!--START_SECTION:activity-->
+## ⚡ Question
 Why is my laptop so loud?
-<!--END_SECTION:activity-->
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-paredes-bautista-pb/)
