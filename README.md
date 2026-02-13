@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Learning...)
 
 ## 🎓 About Me
-CS student at Cornell University, passionate about building impactful software. If I can't do it through a company, I'll find another way.
+CS student at Cornell University, passionate about building impactful software. The top fills itself. 
 
 ## 🔭 Currently Working On 
 - **BookTracker**: Easy-to-use platform for tracking your reading progress.
