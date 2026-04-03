@@ -7,8 +7,8 @@ CS student at Cornell University, passionate about building impactful software. 
 
 ## 🔭 Currently Working On 
 - **BookTracker**: Easy-to-use platform for tracking your reading progress.
-- **LingApp**: An app on iOS meant for learning basic linguistics.
-- **Implementing Things From Class**
+- **DiaryApp**: A clean diary app meant to help you reflect. (Still coming up with a better name!)
+- **Tower Of The Tail**: A Java game built with LibGDX. A rat is climbing a tower to learn how to fly.
 
 ## 🌱 Currently Learning
 - **Rust**: Diving into systems programming and memory safety
