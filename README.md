@@ -9,7 +9,7 @@ CS student at Cornell University, passionate about building impactful software. 
 - **BookTracker**: Easy-to-use platform for tracking your reading progress.
 - **DiaryApp**: A clean diary app meant to help you reflect. (Still coming up with a better name!)
 - **Tower Of The Tail**: A Java game built with LibGDX. A rat is climbing a tower to learn how to fly.
-- ** RoomFind **: RoomFind is a full-stack web application designed to help college students find compatible roommates.
+- **RoomFind**: RoomFind is a full-stack web application designed to help college students find compatible roommates.
 
 ## 🌱 Currently Learning
 - **Rust**: Diving into systems programming and memory safety
