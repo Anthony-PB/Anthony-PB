@@ -8,7 +8,7 @@ CS student at Cornell University, passionate about building impactful software. 
 ## 🔭 Currently Working On 
 - **BookTracker**: Easy-to-use platform for tracking your reading progress.
 - **DiaryApp**: A clean diary app meant to help you reflect. (Still coming up with a better name!)
-- **Tower Of The Tail**: A Java game built with LibGDX. A rat is climbing a tower to learn how to fly. ([Tower Of The Tail](https://github.coecis.cornell.edu/ae427/tower-of-the-tail))
+- **Tower Of The Tail**: A Java game built with LibGDX. A rat is climbing a tower to learn how to fly. ([Tower Of The Tail](https://drive.google.com/file/d/113C3GnMxATSirdNG7GCW4Zhp53PcnGWY/view?usp=sharing))
 - **RoomFind**: RoomFind is a full-stack web application designed to help college students find compatible roommates.
 
 ## 🌱 Currently Learning
